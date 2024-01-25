@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @baggysweatpants
 - 👀 I’m interested in learning how to code, especially the front-end side of things.
-- 🎓 I feel comfortable with HTML & CSS.
-- 🌱 I’m currently trying to deepen my JavaScript Knowledge & picking up a framework.
+- 🎓 I feel comfortable with vanilla HTML & CSS and Javascript basics.
+- 🌱 I’m currently trying to deepen my JavaScript / TypeScript Knowledge & get into fullstack frameworks.
 - 🎯 I want to conquer the web with Svelte and Astro.
 
 <!---
